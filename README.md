@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.luiz2047.dev/" target="_blank" rel="noreferrer"><img src="https://image.lexica.art/full_jpg/8ea2519d-57d8-4d88-a64c-6754432f4dd4" alt="my banner"></a>
+  <a href="https://www.luiz2047.dev/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4E16AQHSA_7ZGaTUTA/profile-displaybackgroundimage-shrink_350_1400/0/1657196255195?e=1694044800&v=beta&t=of5KxTILIbcNp7GViTf1TWw_Q39fWCLTUyi0XYedNu4" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -66,5 +66,5 @@ I'm passionate about leveraging data to solve complex problems and developing ro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz2047&layout=compact)](https://github.com/luiz2047)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=luiz2047.luiz2047)](https://www.luiz2047.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=luiz2047.visitor-badge)](https://github.com/luiz2047)
 
