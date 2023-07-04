@@ -14,7 +14,7 @@ I'm passionate about leveraging data to solve complex problems and developing ro
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/aleksey-kochetkov-ds/"><img align="left" src="https://image.lexica.art/full_jpg/237a26d1-a780-43d7-bff1-8719298cc26f" alt="Luiz | LinkedIn" width="21px"/></a>
+LinkedIn: <a href="https://www.linkedin.com/in/aleksey-kochetkov-ds/"><img align="left" src="https://image.lexica.art/full_jpg/237a26d1-a780-43d7-bff1-8719298cc26f" alt="Luiz | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any questions or feedback, feel free to reach out to me!
 
@@ -66,5 +66,5 @@ I'm passionate about leveraging data to solve complex problems and developing ro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz2047&layout=compact)](https://github.com/luiz2047)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=luiz2047.visitor-badge)](https://github.com/luiz2047)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=luiz2047.luiz2047)](https://github.com/luiz2047)
 
