@@ -1,36 +1,28 @@
-<p align="center">
-  <a href="https://www.luiz2047.dev/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4E16AQHSA_7ZGaTUTA/profile-displaybackgroundimage-shrink_350_1400/0/1657196255195?e=1694044800&v=beta&t=of5KxTILIbcNp7GViTf1TWw_Q39fWCLTUyi0XYedNu4" alt="my banner"></a>
-</p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.luiz2047.dev/" target="_blank" rel="noreferrer">Luiz</a> 👋
+Hi there, I'm <a href="https://github.com/luiz2047?tab=repositories" target="_blank" rel="noreferrer">Aleksey Kochetkov</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Python/Data Science/Backend Developer 🐍💻!
+I'm a Machine Learning Engineer💻!
 </h2> 
 
 I'm passionate about leveraging data to solve complex problems and developing robust backend solutions. As a Python enthusiast, I find joy in exploring data, building predictive models, and automating tasks.
 
 ### 🤝 Connect with me:
 
-LinkedIn: 
-<a href="https://www.linkedin.com/in/aleksey-kochetkov-ds/"><img align="left" src="https://image.lexica.art/full_jpg/237a26d1-a780-43d7-bff1-8719298cc26f" alt="Luiz | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/aleksey-kochetkov-ds/"><img align="left" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="Luiz | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any questions or feedback, feel free to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- Exploratory Data Analysis projects
-- Implementing machine learning models for various applications
-- Backend development for applications
-- Improving my coding skills in Python
+- Backend development for applications with ML, DL models
+- Mentor for students and beginners in ML/DL/Backend
 
 ## 🌱 I'm currently learning
 
-- 📊 Data Visualization with matplotlib and seaborn
-- Flask and Django for web development
-- SQL and database management
+- AWS CloudServices(SageMaker, Lambda and etc)
 
 ## 💼 Technical Skills
 
