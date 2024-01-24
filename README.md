@@ -1,7 +1,7 @@
 
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://github.com/luiz2047?tab=repositories" target="_blank" rel="noreferrer">Aleksey Kochetkov</a> 👋
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Machine Learning Engineer💻!
